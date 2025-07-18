@@ -3,3 +3,6 @@ qiskit-ibm-runtime
 qiskit[visualization]
 matplotlib
 pennylane-qiskit
+yfinance
+pandas
+pandas_ta
